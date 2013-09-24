@@ -1,6 +1,6 @@
 package projecteuler.scala
 
-import _root_.projecteuler.scala.projecteuler.scala.util.EratosthenesSieve
+import util.EratosthenesSieve
 
 object Problem3 {
   def main(args: Array[String]) = {
